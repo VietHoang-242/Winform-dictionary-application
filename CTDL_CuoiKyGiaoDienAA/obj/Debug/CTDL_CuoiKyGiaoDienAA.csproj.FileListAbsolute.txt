@@ -1,0 +1,10 @@
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\bin\Debug\CTDL_CuoiKyGiaoDienAA.exe.config
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\bin\Debug\CTDL_CuoiKyGiaoDienAA.exe
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\bin\Debug\CTDL_CuoiKyGiaoDienAA.pdb
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.Form1.resources
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.Properties.Resources.resources
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.csproj.GenerateResource.cache
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.csproj.CoreCompileInputs.cache
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.exe
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.pdb
+E:\Code\CTDL_CuoiKyGiaoDienAA\CTDL_CuoiKyGiaoDienAA\obj\Debug\CTDL_CuoiKyGiaoDienAA.csproj.AssemblyReference.cache
